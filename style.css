@@ -1,0 +1,14 @@
+body {
+  background-image: url('BACKGROUND1.png');
+  background-size: cover;
+}
+
+img {
+	width: 50%;
+	height: auto;
+}
+
+iframe {
+	width: 40%;
+	height: 40%;
+}
