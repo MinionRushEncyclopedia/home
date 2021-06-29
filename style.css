@@ -1,3 +1,9 @@
+font-face{
+	font-family:"Gotham"
+	src: url(sansation_light.woff);
+	font-weight: bold;
+}
+
 p {
     /* This places the paragraph in the center and makes it white. */
     text-align: center;

@@ -1,3 +1,9 @@
+font-face{
+	font-family:"Gotham"
+	src: url(sansation_light.woff);
+	font-weight: bold;
+}
+
 p {
     /* This places the paragraph in the center and makes it white. */
     text-align: center;
@@ -23,7 +29,7 @@ body {
 
 .logo {
 	padding-top: 0.2%;
-	height:70%;
+	height:80%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
