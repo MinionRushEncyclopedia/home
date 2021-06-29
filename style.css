@@ -1,5 +1,5 @@
-font-face{
-	font-family:"CustomGotham"
+@font-face{
+	font-family: CustomGotham;
 	src: url(GothamBold.woff2);
 	font-weight: bold;
 }
