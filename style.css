@@ -27,6 +27,10 @@
 	font-size: 3vh;
 	margin-left: 5%;
 	margin-right: 5%;
+	
+	display: block;
+	overflow: auto;
+	text-overflow: scroll;
 }
 
 a {
@@ -132,6 +136,8 @@ iframe {
 	font-family: "CustomGotham";
 	font-size: 32px;
 	color: white;
+	
+    overflow: auto;
 	
 	width:45%;
 	height: 50vh;
