@@ -24,7 +24,7 @@
     text-align: center;
     color: white;
 	font-family: "MediumGotham";
-	font-size: 3vh;
+	font-size: 1.55vw;
 	margin-left: 5%;
 	margin-right: 5%;
 	
@@ -36,7 +36,7 @@
 a {
     color: yellow;
 	font-family: "MediumGotham";
-	font-size: 3vh;
+	font-size: 1.55vw;
 }
 
 body {
@@ -140,7 +140,7 @@ iframe {
     overflow: auto;
 	
 	width:45%;
-	height: 50vh;
+	height: 25vw;
 	background-color: rgb(17,86,149);
 	border: solid 4px white;
 	border-radius: 25px;
@@ -148,7 +148,8 @@ iframe {
 }
 
 .container{
-	height: 50vh;
+	height: 25vw;
+	display: inline-block;
 	
 	margin-top: 50px;
 	margin-bottom: 50px;
