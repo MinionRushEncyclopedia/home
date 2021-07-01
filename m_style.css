@@ -4,6 +4,12 @@
 	font-weight: normal;
 }
 
+@font-face{
+	font-family: MediumGotham;
+	src: url(Gotham-Medium.woff2);
+	font-weight: normal;
+}
+
 .subscript {
     /* This places the paragraph in the center and makes it white. */
     text-align: center;
@@ -17,7 +23,7 @@
     /* This places the paragraph in the center and makes it white. */
     text-align: center;
     color: white;
-	font-family: "CustomGotham";
+	font-family: "MediumGotham";
 	font-size: 2.75vh;
 	
 	margin-left: 5%;
@@ -26,7 +32,7 @@
 
 a {
     color: yellow;
-	font-family: "CustomGotham";
+	font-family: "MediumGotham";
 	font-size: 2.75vh;
 }
 
