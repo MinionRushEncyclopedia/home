@@ -25,15 +25,27 @@
     color: white;
 	font-family: "MediumGotham";
 	font-size: 2.5vh;
+	font-weight: normal;
 	
 	margin-left: 5%;
 	margin-right: 5%;
 }
 
-a {
+.hyperlink {
     color: yellow;
 	font-family: "MediumGotham";
 	font-size: 2.5vh;
+	font-weight: normal;
+}
+
+.NAVIGATION_BUTTON {
+	width: 80%;
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 body {
@@ -50,6 +62,20 @@ body {
 	box-shadow: 0px 60px 50px black;
 }
 
+footer {
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 20px;
+	font-family: "MediumGotham";
+	font-size: 16px;
+	color: rgba(255, 255, 255, 0.5);
+	
+	width: 100%;
+	height: 150px;
+	background-color:rgb(17,86,149);
+	float: bottom;
+}
+
 .logo {
 	padding-top: 0.2%;
 	height:80%;
@@ -64,7 +90,7 @@ body {
 }
 
 h1 {
-	padding: 25px 25px;
+	padding: 10px 10px;
 	text-align: center;
 	font-size: 25px;
 	font-family: "CustomGotham";
@@ -158,8 +184,8 @@ iframe {
 	height: 100%;
 	display: inline-block;
 	
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
 	margin-left: 5%;
 	margin-right: 5%;
 }
